@@ -1,5 +1,7 @@
 h1. I18n::Backend::ActiveRecord
 
+!https://secure.travis-ci.org/rud/i18n-active_record.png?branch=rails-3.2(Build Status)!:http://travis-ci.org/rud/i18n-active_record
+
 This repository contains the I18n ActiveRecord backend and support code that has been extracted from the "I18n gem":http://github.com/svenfuchs/i18n.
 
 h2. Installation
